@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorManager</string>
+    <string name="title_activity_giroscope">GiroscopeActivity</string>
+</resources>
